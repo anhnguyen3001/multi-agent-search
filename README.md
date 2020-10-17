@@ -22,3 +22,6 @@ Câu 5: Evaluation Function:
   + Ghost sợ gần nhất
   + Food gần nhất
   + Ghost bình thường gần nhất
+
+Autograder:
+<img src="./autograder.PNG" />
